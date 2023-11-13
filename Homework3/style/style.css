@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.cont1 {
+  height: 150px;
+  display: flex;
+  justify-content: flex-start;
+  border: 3px solid rgb(5, 5, 73);
+}
+
+/* Первая колонка */
+
+.box1 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+}
+
+.box2 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+}
+
+.box3 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+
+/* Вторая колонка */
+
+.box4 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+}
+
+.box5 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+  margin-top: 30px;
+  margin-left: -25px;
+}
+
+.box6 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  margin-top: 50px;
+  margin-left: -25px;
+}
+
+/* Третья колонка */
+
+.box7 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  background-color: red;
+}
+
+.box8 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+  margin-top: 30px;
+  margin-left: -25px;
+  background-color: blue;
+}
+
+.box9 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  margin-top: 50px;
+  margin-left: -25px;
+  background-color: green;
+}
+
+/* Четвертая колонка */
+
+.box10 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  background-color: red;
+}
+
+.box11 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+  margin-top: 30px;
+  margin-left: -25px;
+  background-color: blue;
+  z-index: 1;
+}
+
+.box12 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  margin-top: 50px;
+  margin-left: -25px;
+  background-color: green;
+}
+
+/* Пятая колонка */
+
+.box13 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  background-color: red;
+}
+
+.box14 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+  margin-top: 30px;
+  margin-left: -25px;
+  background-color: blue;
+  z-index: -1;
+}
+
+.box15 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  margin-top: 50px;
+  margin-left: -25px;
+  background-color: green;
+}
+
+/* Шестая колонка */
+
+.box16 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  background-color: red;
+}
+
+.box17 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+  margin-top: 30px;
+  margin-left: -25px;
+  background-color: blue;
+  z-index: -1;
+}
+
+.box18 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  margin-top: 50px;
+  margin-left: -25px;
+  background-color: green;
+  z-index: -2;
+}
